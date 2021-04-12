@@ -31,6 +31,9 @@ nav > a {
 #featured-property > p {
   width: 800px;
   text-align: center;
+  padding-left: 449px;
+  padding-right: 449px;
+  
 }
 
 #details > div {
